@@ -1,2 +1,2 @@
 # Pokemon-Ranking
-It consist of know what are the most powerful pokemon of each generation.
+It consists of know what are the most powerful pokemon of each generation.
